@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(75, 124, 82);
+    align-items: center;
+   
+
+
+   
+
+}
+.con{
+    
+    display: inline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    
+
+}
+.img{
+    height: 50%;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-size: larger;
+}
+
+.slide{
+    height: 100%;
+    width: auto;
+    border: none;
+    border-radius: 5px;
+}
+i{
+    color: white;
+    font-size: 10px;
+    margin-top: 20px;
+}
+.i1 {
+     color: white;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
